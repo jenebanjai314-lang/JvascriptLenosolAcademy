@@ -24,7 +24,7 @@ let value = NaN; // Not a Number
 
 // VARIABLES NAMING RULES AND CONVENTION
 /**
- * 1. Variable name must not sttart with a number. only letters and $ is acceptable to start in a variable name
+ * 1. Variable name must not start with a number. only letters and $ is acceptable to start in a variable name
  * 2. Variable name must not be spaced. Use camel casing convention when naming variables
  * 3. Variables name can be as long as you like for as long as it is meaningful to its value
  * 4. Variables name, function name must start with a lower case letter
